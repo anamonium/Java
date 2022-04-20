@@ -1,0 +1,2 @@
+Ten projekt zajmuje się obliczniem całek metodą trapezów oraz monte carlo. 
+Oblicza on też dokładną wartość całki po czym oblicza błąd z jakim została obloczona całka
