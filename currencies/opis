@@ -1,0 +1,4 @@
+Ten projekt zajmuje się wymianą określonej ilości waluty na inną.
+Pobiera on dane ze strony NBP.
+Zawarte są tam 2 wersje, jedna jest to konsolowa wersja aplikacji, 
+w drugiej użyta została biblioteka Swing aby utworzyć interfejs graficzny.
